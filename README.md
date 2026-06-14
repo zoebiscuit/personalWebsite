@@ -12,9 +12,9 @@ The website includes an about me section which is kinda descriptive. the website
 The vibe and style of the website is heavily inspired by olivia rodrigo's website, newest album, and "the cure" music video. I really love the thread feel so you can see how i included thread font. of course, the website is still me and you will find pieces of myself in there, which i also adore!
 
 ## Controls
- scrollllll
-click my projects to view them
+ scrollllll & click my projects to view them
 
 ## Credits
 Me, myself, and I
+
 W3 Schools
