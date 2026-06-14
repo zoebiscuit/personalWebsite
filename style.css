@@ -202,7 +202,7 @@ h3 {
     border-style: dashed;
     border-color: var(--primary-color);
     border-width: 2px;
-    width: 30vw;
+    max-width: 30vw;
     max-height: 17vw;
     object-fit: cover;
 }
