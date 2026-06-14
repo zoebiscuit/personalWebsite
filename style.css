@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "stitch";
+    src: url(fonts/MixStitch.ttf);
+}
+
+:root{
+    --primary-color: #e8b341;
+    --secondary-color: #332421;
+}
 body {
     /*background-image: url(background.png);
     background-size: cover;
@@ -11,7 +20,7 @@ body {
     width: 100%;
     margin: 0;
     padding: 0;
-    background-color: ;
+    background-color: var(--secondary-color);
 }
 
 .background-image img{
@@ -56,7 +65,27 @@ body {
     height: 10vh;
     margin: 0;
     padding: 0;
-    top: 420px;
-    right: 120px;
+    top: 53%;
+    right: 9%;
     filter: drop-shadow(2px 1.5px 1.5px black)
+}
+
+.sub-title {
+    position: absolute;
+    top: 78%;
+    left: 15%;
+    transform: rotate(-1deg);
+}
+
+h2 {
+    font-family: "stitch", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.75rem;
+    color:var(--primary-color);
+    filter: drop-shadow(1px 1px 0px black)
+}
+
+.middle-thread {
+    position: absolute;
+    top: 95%;
+    left: 11%;
 }
