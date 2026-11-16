@@ -11,7 +11,7 @@ The website includes an about me section which is kinda descriptive. the website
 
 The vibe and style of the website is heavily inspired by olivia rodrigo's website, newest album, and "the cure" music video. I really love the thread feel so you can see how i included thread font. of course, the website is still me and you will find pieces of myself in there, which i also adore!
 
-check it out at ![zoebisset.com](zoebisset.com)
+check it out at ![zoebisset.com](https://zoebisset.com)
 
 ## Controls
  scrollllll & click my projects to view them
